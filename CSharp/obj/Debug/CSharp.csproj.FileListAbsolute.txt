@@ -1,0 +1,6 @@
+\\wfs-vmf1-001\fi5h$\rösler\visual studio 2013\Projects\CSharp\CSharp\bin\Debug\CSharp.exe.config
+\\wfs-vmf1-001\fi5h$\rösler\visual studio 2013\Projects\CSharp\CSharp\bin\Debug\CSharp.exe
+\\wfs-vmf1-001\fi5h$\rösler\visual studio 2013\Projects\CSharp\CSharp\bin\Debug\CSharp.pdb
+\\wfs-vmf1-001\fi5h$\rösler\visual studio 2013\Projects\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+\\wfs-vmf1-001\fi5h$\rösler\visual studio 2013\Projects\CSharp\CSharp\obj\Debug\CSharp.exe
+\\wfs-vmf1-001\fi5h$\rösler\visual studio 2013\Projects\CSharp\CSharp\obj\Debug\CSharp.pdb
